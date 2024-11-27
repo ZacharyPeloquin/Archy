@@ -247,4 +247,8 @@ QUOTES = [
         "quote": "On va toujours trop loin pour les gens qui ne vont nulle part.",
         "author": AUTHORS["biereAuGibier"],
     },
+    {
+        "quote": "C'est la dose qui fait le venin.",
+        "author": AUTHORS["Saku_Voiku"],
+    },
 ]
